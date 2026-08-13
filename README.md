@@ -6,6 +6,7 @@
 2. [type 和 typeclass](./notes/02_type.md)
 3. [函数语法](./notes/03_function.md)
 4. [递归](./notes/04_recursion.md)
+5. [高阶函数](./notes/05_high-order-function.md)
 
 ## 参考资料
 
