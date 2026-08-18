@@ -70,5 +70,6 @@ import qualified Data.Map as M
 ## 常用模块
 
 - [Data.List](./06_modules/Data-List.md)
-
-
+- [Data.Char](./06_modules/Data-Char.md)
+- [Data.Map](./06_modules/Data-Map.md)
+- [Data.Set](./06_modules/Data-Set.md)

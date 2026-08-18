@@ -7,6 +7,7 @@
 3. [函数语法](./notes/03_function.md)
 4. [递归](./notes/04_recursion.md)
 5. [高阶函数](./notes/05_high-order-function.md)
+6. [模块](./notes/06_modules.md)
 
 ## 参考资料
 
